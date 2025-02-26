@@ -4,6 +4,7 @@
 "تطبيق الطقس السعودي" هو تطبيق ويب بسيط يعرض حالة الطقس في المدن السعودية بشكل مباشر. يعتمد التطبيق على واجهة برمجة التطبيقات (API) الخاصة بـ [OpenWeather](https://openweathermap.org/) لجلب بيانات الطقس بشكل محدث ودقيق.
 
 ---
+ 
 
 ## المميزات ✨
 - عرض درجة الحرارة الحالية لكل مدينة.
@@ -80,3 +81,16 @@
  
 ### حقوق الملكية ©️
 جميع الحقوق محفوظة © 2025 "تطبيق الطقس السعودي".
+
+
+
+
+
+[![Stars](https://img.shields.io/github/stars/ahdevloper/weatherApp)](https://github.com/ahdevloper/weatherApp/stargazers)
+[![Forks](https://img.shields.io/github/forks/ahdevloper/weatherApp)](https://github.com/ahdevloper/weatherApp/fork)
+
+
+
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://www.w3.org/TR/html5/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](https://www.w3.org/Style/CSS/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
